@@ -13,6 +13,13 @@ End: 10.10.2024
 - [Usecase Diagramm](/docs/docs/diagrams/use-case)
 - Medusa setup
 
+## Time
+Michael Stenz: 6h
+Jakob Schlage: 4h
+Manuel Puchner: 3h
+Lukas Mayrhuber: 3h
+Michael Ruep: 3h
+
 ## Sprint Review
 TODO
 
