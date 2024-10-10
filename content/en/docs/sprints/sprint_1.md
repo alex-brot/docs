@@ -15,10 +15,10 @@ End: 10.10.2024
 
 ## Time
 - Michael Stenz: 6h - 14 Commits
-- Jakob Schlage: 4h
+- Jakob Schlager: 4h
 - Manuel Puchner: 3h
 - Lukas Mayrhuber: 3h
-- Michael Ruep: 3hy
+- Michael Ruep: 3h
 
 ## Sprint Review
 TODO
