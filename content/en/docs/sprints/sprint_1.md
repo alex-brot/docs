@@ -14,11 +14,11 @@ End: 10.10.2024
 - Medusa setup
 
 ## Time
-Michael Stenz: 6h - 14 Commits
-Jakob Schlage: 4h
-Manuel Puchner: 3h
-Lukas Mayrhuber: 3h
-Michael Ruep: 3hy
+- Michael Stenz: 6h - 14 Commits
+- Jakob Schlage: 4h
+- Manuel Puchner: 3h
+- Lukas Mayrhuber: 3h
+- Michael Ruep: 3hy
 
 ## Sprint Review
 TODO
