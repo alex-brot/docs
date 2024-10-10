@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Goldydocs on Alex Brot Docs</title><link>https://example.docsy.dev/</link><description>Recent content in Goldydocs on Alex Brot Docs</description><generator>Hugo</generator><language>en</language><atom:link href="https://example.docsy.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Sprint 0</title><link>https://example.docsy.dev/docs/sprints/sprint_0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.docsy.dev/docs/sprints/sprint_0/</guid><description>&lt;title>{{.Title}}&lt;/title>
+&lt;p>Start: 12.09.2024&lt;/p>
+&lt;p>End: 26.09.2024&lt;/p></description></item><item><title>Sprint 1</title><link>https://example.docsy.dev/docs/sprints/sprint_1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.docsy.dev/docs/sprints/sprint_1/</guid><description>&lt;title>{{.Title}}&lt;/title></description></item><item><title>Use Case diagram</title><link>https://example.docsy.dev/docs/diagrams/use-case/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.docsy.dev/docs/diagrams/use-case/</guid><description>&lt;title>{{.Title}}&lt;/title>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+left to right direction
+actor &amp;#34;producer/baker&amp;#34; as producer
+actor customer
+rectangle &amp;#34;Abholstation station&amp;#34; {
+ usecase &amp;#34;Vorbestellltes abholen&amp;#34; as c1
+ usecase &amp;#34;Zusatzprodukte kaufen&amp;#34; as c2
+ usecase &amp;#34;Waren auffüllen&amp;#34; as c3
+}
+rectangle &amp;#34;Online shop&amp;#34; {
+ usecase &amp;#34;Wöchentliche Angebote erneuern&amp;#34; as s1
+ usecase &amp;#34;Waren bestellen&amp;#34; as s2
+ usecase &amp;#34;Bestellungen auslesen&amp;#34; as s3
+}
+
+producer --&amp;gt; s1
+producer --&amp;gt; c3
+producer --&amp;gt; s3
+customer --&amp;gt; s2
+customer --&amp;gt; c1
+customer --&amp;gt; c2
+
+
+@enduml
+&lt;/code>&lt;/pre></description></item></channel></rss>
