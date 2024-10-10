@@ -1,4 +1,4 @@
-baseURL: https://alex-brot.github.io/docs/
+baseURL: https://alex-brot.github.io/
 title: Alex Brot Docs
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu

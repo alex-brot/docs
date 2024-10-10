@@ -5,7 +5,13 @@ weight: 3
 
 <title>{{.Title}}</title>
 
+Start: 12.09.2024
+End: 26.09.2024
 
+## Sprint Goals
+- Brainstorming
+- Kunden-kickoff-meeeting
+- Projektantrag
 
-<p>Start: 12.09.2024</p>
-<p>End: 26.09.2024</p>
+## Sprint Review
+- Projektantrag überarbeitet

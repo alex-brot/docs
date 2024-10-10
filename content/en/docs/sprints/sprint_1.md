@@ -4,3 +4,18 @@ weight: 3
 ---
 
 <title>{{.Title}}</title>
+
+Start: 26.09.2024
+End: 10.10.2024
+
+## Sprint Goals
+- [CI/CD (Corporate Identity/Corporate Design)](/docs/design)
+- [Usecase Diagramm](/docs/diagrams/use-case)
+- Medusa setup
+
+## Sprint Review
+TODO
+
+
+## Challenges
+/
