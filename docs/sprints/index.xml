@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sprints on Alex Brot Docs</title><link>https://alex-brot.github.io/docs/docs/sprints/</link><description>Recent content in Sprints on Alex Brot Docs</description><generator>Hugo</generator><language>en</language><atom:link href="https://alex-brot.github.io/docs/docs/sprints/index.xml" rel="self" type="application/rss+xml"/><item><title>Sprint 0</title><link>https://alex-brot.github.io/docs/docs/sprints/sprint_0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/sprints/sprint_0/</guid><description>&lt;title>{{.Title}}&lt;/title>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sprints on Alex Brot Docs</title><link>https://alex-brot.github.io/docs/docs/sprints/</link><description>Recent content in Sprints on Alex Brot Docs</description><generator>Hugo</generator><language>en</language><atom:link href="https://alex-brot.github.io/docs/docs/sprints/index.xml" rel="self" type="application/rss+xml"/><item><title>Sprint 1</title><link>https://alex-brot.github.io/docs/docs/sprints/sprint_1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/sprints/sprint_1/</guid><description>&lt;title>{{.Title}}&lt;/title>
 &lt;p>Start: 12.09.2024
 End: 26.09.2024&lt;/p>
 &lt;h2 id="sprint-goals">Sprint Goals&lt;a class="td-heading-self-link" href="#sprint-goals" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>Brainstorming&lt;/li>
-&lt;li>Kunden-kickoff-meeeting&lt;/li>
+&lt;li>Kunden-kickoff-meeting&lt;/li>
 &lt;li>Projektantrag&lt;/li>
 &lt;/ul>
 &lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>Projektantrag überarbeitet&lt;/li>
-&lt;/ul></description></item><item><title>Sprint 1</title><link>https://alex-brot.github.io/docs/docs/sprints/sprint_1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/sprints/sprint_1/</guid><description>&lt;title>{{.Title}}&lt;/title>
+&lt;/ul></description></item><item><title>Sprint 2</title><link>https://alex-brot.github.io/docs/docs/sprints/sprint_2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/sprints/sprint_2/</guid><description>&lt;title>{{.Title}}&lt;/title>
 &lt;p>Start: 26.09.2024
 End: 10.10.2024&lt;/p>
 &lt;h2 id="sprint-goals">Sprint Goals&lt;a class="td-heading-self-link" href="#sprint-goals" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://alex-brot.github.io/docs/docs/docs/design">CI/CD (Corporate Identity/Corporate Design)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://alex-brot.github.io/docs/docs/docs/diagrams/use-case">Usecase Diagramm&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alex-brot.github.io/docs/docs/docs/diagrams/use-case">Use-Case Diagramm&lt;/a>&lt;/li>
 &lt;li>Medusa setup&lt;/li>
 &lt;/ul>
 &lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
@@ -30,4 +30,29 @@ End: 10.10.2024&lt;/p>
 &lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>TODO&lt;/p>
 &lt;h2 id="challenges">Challenges&lt;a class="td-heading-self-link" href="#challenges" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>/&lt;/p></description></item></channel></rss>
+&lt;p>/&lt;/p></description></item><item><title>Sprint 3</title><link>https://alex-brot.github.io/docs/docs/sprints/sprint_3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/sprints/sprint_3/</guid><description>&lt;title>{{.Title}}&lt;/title>
+&lt;p>Start: 26.09.2024
+End: 10.10.2024&lt;/p>
+&lt;h2 id="sprint-goals">Sprint Goals&lt;a class="td-heading-self-link" href="#sprint-goals" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Deploy Medusa&lt;/li>
+&lt;li>Figma design&lt;/li>
+&lt;li>finding and trying different POS options to check if it is valid for our Use-Case&lt;/li>
+&lt;li>defining USP&lt;/li>
+&lt;li>&lt;a href="https://alex-brot.github.io/docs/docs/docs/diagrams/component-diagram">Component Diagram&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Michael Stenz: xh - 21 Commits&lt;/li>
+&lt;li>Jakob Schlager: xh&lt;/li>
+&lt;li>Manuel Puchner: xh&lt;/li>
+&lt;li>Lukas Mayrhuber: xh&lt;/li>
+&lt;li>Michael Ruep: 3h&lt;/li>
+&lt;/ul>
+&lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>TODO&lt;/p>
+&lt;h2 id="challenges">Challenges&lt;a class="td-heading-self-link" href="#challenges" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>trying the different POS options (SumUp, Android Tap-To-Pay,&amp;hellip;)&lt;/li>
+&lt;li>learning to use Hugo for Docs&lt;/li>
+&lt;/ul></description></item></channel></rss>
