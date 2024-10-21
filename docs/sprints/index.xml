@@ -55,4 +55,6 @@ End: 10.10.2024&lt;/p>
 &lt;ul>
 &lt;li>trying the different POS options (SumUp, Android Tap-To-Pay,&amp;hellip;)&lt;/li>
 &lt;li>learning to use Hugo for Docs&lt;/li>
+&lt;li>Automatic deployment&lt;/li>
+&lt;li>Arm &amp;amp; Amd Docker images because the K8s enviroment runs on Arm&lt;/li>
 &lt;/ul></description></item></channel></rss>
