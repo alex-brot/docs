@@ -29,3 +29,5 @@ TODO
 ## Challenges
 - trying the different POS options (SumUp, Android Tap-To-Pay,...)
 - learning to use Hugo for Docs
+- Automatic deployment
+- Arm & Amd Docker images because the K8s enviroment runs on Arm
