@@ -1,3 +1,8 @@
+---
+title: Container Shop System
+weight: 3
+---
+
 # Alex-Brot Container-Shop-System
 
 ## Existing Local Systems
