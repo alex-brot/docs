@@ -9,7 +9,8 @@ Start: 26.09.2024
 End: 10.10.2024
 
 ## Sprint Goals
-- Deploy Medusa
+- [Deploy Medusa](https://medusa.alex-brot.stenz.dev/app)
+- [Deploy Frontend](https://alex-brot.stenz.dev)
 - Figma design
 - finding and trying different POS options to check if it is valid for our Use-Case
 - defining USP
