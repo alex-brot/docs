@@ -21,7 +21,7 @@ End: 10.10.2024
 - Jakob Schlager: xh
 - Manuel Puchner: 11:00h
 - Lukas Mayrhuber: xh
-- Michael Ruep: 3h
+- Michael Ruep: 12h
 
 ## Sprint Review
 TODO
