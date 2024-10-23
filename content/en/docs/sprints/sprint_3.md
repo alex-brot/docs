@@ -19,7 +19,7 @@ End: 10.10.2024
 ## Time
 - Michael Stenz: 14:32h - 21 Commits
 - Jakob Schlager: xh
-- Manuel Puchner: xh
+- Manuel Puchner: 11:00h
 - Lukas Mayrhuber: xh
 - Michael Ruep: 3h
 
