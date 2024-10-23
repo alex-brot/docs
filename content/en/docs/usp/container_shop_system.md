@@ -17,6 +17,12 @@
   - Fees: 2.29% + $0.09 per transaction
   - Android Tap To Pay: ✔️
 
+## Internal Payment & Access System
+- **Additional ESP8266/ESP32 for Payment**
+  - Bar/QR/NFC code scanning for Products
+  - Working with Payment Integration for seamless operation.
+  - Alternative: Manual input of payment
+
 ## Access Control Options
 - **Code Access (PIN/via Web-App)**
   - Users gets a PIN or can unlock via the web-app.
@@ -35,14 +41,8 @@
   - Store the footage temporarily and overwrite older data.
   - Cons: additional hardware (but should be cheap)
 
-## Internal Payment & Access System
-- **Additional ESP8266/ESP32 for Payment**
-  - Bar/QR/NFC code scanning for Products
-  - Working with Payment Integration for seamless operation.
-  - Alternative: Manual input of payment
-
 ## Conclusion
 Setup:
-1. **Payment:** SumUp for cost-effectiveness.
-2. **Access Control:** NFC access with ESP8266 combined with video logging for security.
+1. **Access Control:** NFC access with ESP8266 combined with video logging for security.
+2. **Payment:** SumUp for cost-effectiveness.
 3. **Internal Payment:** A second ESP8266/ESP32 to manage card/mobile payments inside.
