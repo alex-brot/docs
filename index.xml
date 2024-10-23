@@ -99,7 +99,7 @@ End: 10.10.2024&lt;/p>
 &lt;li>Jakob Schlager: xh&lt;/li>
 &lt;li>Manuel Puchner: 11:00h&lt;/li>
 &lt;li>Lukas Mayrhuber: xh&lt;/li>
-&lt;li>Michael Ruep: 3h&lt;/li>
+&lt;li>Michael Ruep: 12h&lt;/li>
 &lt;/ul>
 &lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>TODO&lt;/p>
@@ -134,6 +134,37 @@ customer --&amp;gt; c2
 
 
 @enduml
-&lt;/code>&lt;/pre></description></item><item><title>Design</title><link>https://alex-brot.github.io/docs/docs/design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/design/</guid><description>&lt;title>{{.Title}}&lt;/title>
+&lt;/code>&lt;/pre></description></item><item><title/><link>https://alex-brot.github.io/docs/docs/usp/container_shop_system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/usp/container_shop_system/</guid><description>&lt;h1 id="alex-brot-container-shop-system">Alex-Brot Container-Shop-System&lt;a class="td-heading-self-link" href="#alex-brot-container-shop-system" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="existing-local-systems">Existing Local Systems&lt;a class="td-heading-self-link" href="#existing-local-systems" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Tested existing shop systems from similar businesses to explore different functioning options.&lt;/p>
+&lt;ul>
+&lt;li>Off-Grid Saleshut (Yard Shop ~Innertreffling)
+&lt;ul>
+&lt;li>cash payment only&lt;/li>
+&lt;li>always open&lt;/li>
+&lt;li>no internet, no power&lt;/li>
+&lt;li>trust based - no further security measures&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Bio Bauer in Mittertreffling
+&lt;ul>
+&lt;li>cash payment only&lt;/li>
+&lt;li>no internet, no power&lt;/li>
+&lt;li>with seller on site or 24/7 shop&lt;/li>
+&lt;li>trust based - no further security measures&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Yard Shop (~Altenberg)
+&lt;ul>
+&lt;li>cash payment only&lt;/li>
+&lt;li>always open&lt;/li>
+&lt;li>Access Control with Credit Card&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="payment-options">Payment Options&lt;a class="td-heading-self-link" href="#payment-options" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>SumUp&lt;/strong>&lt;/p></description></item><item><title>Design</title><link>https://alex-brot.github.io/docs/docs/design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/design/</guid><description>&lt;title>{{.Title}}&lt;/title>
 &lt;h3 id="figma">Figma&lt;a class="td-heading-self-link" href="#figma" aria-label="Heading self-link">&lt;/a>&lt;/h3>
 &lt;p>&lt;a href="https://www.figma.com/design/Xiob1003ClN7HPB024U1U7/AlexBrot?node-id=0-1&amp;amp;node-type=canvas&amp;amp;t=TvEVL7Sh8MEhNKKT-0">Figma&lt;/a>&lt;/p></description></item><item><title>Documents and links</title><link>https://alex-brot.github.io/docs/docs/documents/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/documents/</guid><description/></item></channel></rss>
