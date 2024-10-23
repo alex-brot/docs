@@ -20,7 +20,7 @@ End: 24.10.2024
 - Michael Stenz: 14:32h - 59 Commits
 - Jakob Schlager: 8h - 5 Commits
 - Manuel Puchner: 11:00h - 38 Commits
-- Lukas Mayrhuber: xh - 7 Commits
+- Lukas Mayrhuber: 8:35h - 7 Commits
 - Michael Ruep: 12h - 10 Commits
 
 - [Tool](https://timetracking.websters.at)
