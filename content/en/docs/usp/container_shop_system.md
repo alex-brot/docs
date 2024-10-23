@@ -1,5 +1,25 @@
 # Alex-Brot Container-Shop-System
 
+## Existing Local Systems
+
+Tested existing shop systems from similar businesses to explore different functioning options.
+
+- Off-Grid Saleshut (Yard Shop ~Innertreffling)
+  - cash payment only
+  - always open
+  - no internet, no power
+  - trust based - no further security measures
+- Bio Bauer in Mittertreffling
+  - cash payment only
+  - no internet, no power
+  - with seller on site or 24/7 shop
+  - trust based - no further security measures
+- Yard Shop (~Altenberg)
+  - cash payment only
+  - always open
+  - Access Control with Credit Card
+
+
 ## Payment Options
 
 - **SumUp**
