@@ -35,7 +35,8 @@ End: 10.10.2024&lt;/p>
 End: 10.10.2024&lt;/p>
 &lt;h2 id="sprint-goals">Sprint Goals&lt;a class="td-heading-self-link" href="#sprint-goals" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
-&lt;li>Deploy Medusa&lt;/li>
+&lt;li>&lt;a href="https://medusa.alex-brot.stenz.dev/app">Deploy Medusa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alex-brot.stenz.dev">Deploy Frontend&lt;/a>&lt;/li>
 &lt;li>Figma design&lt;/li>
 &lt;li>finding and trying different POS options to check if it is valid for our Use-Case&lt;/li>
 &lt;li>defining USP&lt;/li>
