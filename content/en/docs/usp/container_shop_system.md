@@ -64,5 +64,5 @@ Tested existing shop systems from similar businesses to explore different functi
 ## Conclusion
 Setup:
 1. **Access Control:** NFC access with ESP8266 combined with video logging for security.
-2. **Payment:** SumUp for cost-effectiveness.
+2. **Payment:** SumUp for cost-effectiveness. - For Testing Android Tap To Pay
 3. **Internal Payment:** A second ESP8266/ESP32 to manage card/mobile payments inside.
