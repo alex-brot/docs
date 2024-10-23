@@ -17,7 +17,7 @@ End: 10.10.2024
 - [Component Diagram](/docs/docs/diagrams/component-diagram)
 
 ## Time
-- Michael Stenz: xh - 21 Commits
+- Michael Stenz: 14:32h - 21 Commits
 - Jakob Schlager: xh
 - Manuel Puchner: xh
 - Lukas Mayrhuber: xh
