@@ -5,8 +5,8 @@ weight: 3
 
 <title>{{.Title}}</title>
 
-Start: 26.09.2024
-End: 10.10.2024
+Start: 10.10.2024
+End: 24.10.2024
 
 ## Sprint Goals
 - [Deploy Medusa](https://medusa.alex-brot.stenz.dev/app)
@@ -17,11 +17,13 @@ End: 10.10.2024
 - [Component Diagram](/docs/docs/diagrams/component-diagram)
 
 ## Time
-- Michael Stenz: 14:32h - 21 Commits
-- Jakob Schlager: xh
-- Manuel Puchner: 11:00h
-- Lukas Mayrhuber: xh
-- Michael Ruep: 12h
+- Michael Stenz: 14:32h - 59 Commits
+- Jakob Schlager: xh - 4 Commits
+- Manuel Puchner: 11:00h - 38 Commits
+- Lukas Mayrhuber: xh - 7 Commits
+- Michael Ruep: 12h - 10 Commits
+
+- [Tool](https://timetracking.websters.at)
 
 ## Sprint Review
 TODO
