@@ -79,7 +79,7 @@ Setup:
 - PN532 NFC-Reader
 - 4x4 Matrix
 - GPIO Expander (MCP23016)
-- Relay + Solenoid or other kind of lock (voltage is what matters for relay)
+- Relay (Solenoid or other kind)
 
 ### Payment:
 - NFC / Android Pay Supported Device
