@@ -10,6 +10,8 @@ End: 21.11.2024
 
 ## Sprint Goals
 
+- [Container Shop System](/docs/docs/diagrams/component-diagram)
+
 ## Time
 - Michael Stenz: h -  Commits
 - Jakob Schlager: h -  Commits
