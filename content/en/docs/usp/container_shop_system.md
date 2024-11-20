@@ -71,3 +71,15 @@ Setup:
 1. **Access Control:** NFC access with ESP8266 combined with video logging for security.
 2. **Payment:** SumUp for cost-effectiveness. - For Testing Android Tap To Pay
 3. **Internal Payment:** A second ESP8266/ESP32 to manage card/mobile payments inside.
+
+## Hardware
+
+### Access Control:  
+- ESP32-CAM (ESP32 + Cam + SD-Reader)
+- PN532 NFC-Reader
+- 4x4 Matrix
+- GPIO Expander (MCP23016)
+- Relay + Solenoid or other kind of lock (voltage is what matters for relay)
+
+### Payment:
+- NFC / Android Pay Supported Device
