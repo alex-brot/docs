@@ -28,3 +28,4 @@ TODO
 - defining the requirements
 - finding the right hardware
     - there is nothing like this already done with a non proprietary system
+    - too few pins on small ESPs
