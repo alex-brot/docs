@@ -9,8 +9,7 @@ Start: 24.10.2024
 End: 21.11.2024
 
 ## Sprint Goals
-
-- [Container Shop System](/docs/docs/diagrams/component-diagram)
+- [Container Shop System](/docs/docs/usp/container_shop_system)
 
 ## Time
 - Michael Stenz: h -  Commits
