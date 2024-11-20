@@ -182,6 +182,7 @@ End: 21.11.2024&lt;/p>
 &lt;li>finding the right hardware
 &lt;ul>
 &lt;li>there is nothing like this already done with a non proprietary system&lt;/li>
+&lt;li>too few pins on small ESPs&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul></description></item><item><title>Use Case diagram</title><link>https://alex-brot.github.io/docs/docs/diagrams/use-case/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/diagrams/use-case/</guid><description>&lt;title>{{.Title}}&lt;/title>
