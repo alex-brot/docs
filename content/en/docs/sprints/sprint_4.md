@@ -17,8 +17,8 @@ End: 21.11.2024
 - Manuel Puchner: h -  Commits
 - Lukas Mayrhuber: h -  Commits
 - Michael Ruep: 23h -  Commits
-
-- [Tool](https://timetracking.websters.at)
+  
+[Tool](https://timetracking.websters.at)
 
 ## Sprint Review
 TODO
