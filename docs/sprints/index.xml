@@ -70,10 +70,17 @@ End: 21.11.2024&lt;/p>
 &lt;h2 id="sprint-goals">Sprint Goals&lt;a class="td-heading-self-link" href="#sprint-goals" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://alex-brot.github.io/docs/docs/docs/usp/container_shop_system">defining Container Shop System requirements and hardware&lt;/a>&lt;/li>
+&lt;li>dev enviroment + ci/cd
+&lt;ul>
+&lt;li>&lt;a href="https://dev.alex-brot.stenz.dev/">https://dev.alex-brot.stenz.dev/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dev.medusa.alex-brot.stenz.dev/app">https://dev.medusa.alex-brot.stenz.dev/app&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/alex-brot/alex-brot-storefront/blob/dev/.github/workflows/build-and-deploy-dev.yaml">https://github.com/alex-brot/alex-brot-storefront/blob/dev/.github/workflows/build-and-deploy-dev.yaml&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
-&lt;li>Michael Stenz: h - Commits&lt;/li>
+&lt;li>Michael Stenz: 17:15h - 16 Commits&lt;/li>
 &lt;li>Jakob Schlager: h - Commits&lt;/li>
 &lt;li>Manuel Puchner: h - Commits&lt;/li>
 &lt;li>Lukas Mayrhuber: h - Commits&lt;/li>
