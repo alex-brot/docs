@@ -10,9 +10,13 @@ End: 21.11.2024
 
 ## Sprint Goals
 - [defining Container Shop System requirements and hardware](/docs/docs/usp/container_shop_system)
+- dev enviroment + ci/cd
+    - https://dev.alex-brot.stenz.dev/
+    - https://dev.medusa.alex-brot.stenz.dev/app
+    - https://github.com/alex-brot/alex-brot-storefront/blob/dev/.github/workflows/build-and-deploy-dev.yaml
 
 ## Time
-- Michael Stenz: h -  Commits
+- Michael Stenz: 17:15h -  16 Commits
 - Jakob Schlager: h -  Commits
 - Manuel Puchner: h -  Commits
 - Lukas Mayrhuber: h -  Commits
