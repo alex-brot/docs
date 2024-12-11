@@ -31,3 +31,7 @@ TODO
   - + a lot of wires and components
 - Power Problems
   - too many components to run on the USB-Power
+- Medusa V2
+  - NO DOCS!!!!!!
+  - Plugins are not supported yet AHHHHH https://github.com/medusajs/medusa/issues/10118#issuecomment-2479754829
+
