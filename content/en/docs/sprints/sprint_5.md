@@ -28,3 +28,4 @@ TODO
 
 ## Challenges
 - **Broken Breadboard**
+  - + a lot of wires and components
