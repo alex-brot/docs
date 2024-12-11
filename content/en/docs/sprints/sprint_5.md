@@ -29,3 +29,5 @@ TODO
 ## Challenges
 - **Broken Breadboard**
   - + a lot of wires and components
+- Power Problems
+  - too many components to run on the USB-Power
