@@ -14,11 +14,11 @@ End: 12.12.2024
 - Access Control Test Schaltung
 
 ## Time
-- Michael Stenz: h - Commits
+- Michael Stenz: 25h - 24 Commits
 - Jakob Schlager: h - Commits
 - Manuel Puchner: h - Commits
-- Lukas Mayrhuber: h - Commits
-- Michael Ruep: 28h - Commits
+- Lukas Mayrhuber: 28h - Commits
+- Michael Ruep: 28h - 13 Commits
   
 [Tool](https://timetracking.websters.at)
 
