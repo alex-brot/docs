@@ -25,3 +25,4 @@ TODO
 
 
 ## Challenges
+- Arduino OTA (Version Problem) - ended up not using it unfortunately
