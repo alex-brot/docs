@@ -146,6 +146,7 @@ End: 12.12.2024&lt;/p>
 End: 9.1.2025&lt;/p>
 &lt;h2 id="sprint-goals">Sprint Goals&lt;a class="td-heading-self-link" href="#sprint-goals" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
+&lt;li>Optimize Inputs on Access Control System&lt;/li>
 &lt;li>Wireless on ESP32&lt;/li>
 &lt;/ul>
 &lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
@@ -161,5 +162,6 @@ End: 9.1.2025&lt;/p>
 &lt;p>TODO&lt;/p>
 &lt;h2 id="challenges">Challenges&lt;a class="td-heading-self-link" href="#challenges" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
+&lt;li>Keyboard, NFC Reader and Display handled on one ESP32&lt;/li>
 &lt;li>Arduino OTA (Version Problem) - ended up not using it unfortunately&lt;/li>
 &lt;/ul></description></item></channel></rss>
