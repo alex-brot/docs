@@ -9,7 +9,8 @@ Start: 12.12.2024
 End: 9.1.2025
 
 ## Sprint Goals
-- Wireless on ESP32
+- Optimize Inputs on Access Control System
+- Wireless on ESP32 
 
 ## Time
 - Michael Stenz: h -  Commits
@@ -25,4 +26,5 @@ TODO
 
 
 ## Challenges
+- Keyboard, NFC Reader and Display handled on one ESP32
 - Arduino OTA (Version Problem) - ended up not using it unfortunately
