@@ -13,12 +13,13 @@ End: 9.1.2025
 - Wireless on ESP32
 - AWS (Stenz)
 - Deployment (Stenz)
+- Medusa Custom Modules & API
 
 ## Time
 - Michael Stenz: 17h - 27 Commits
 - Jakob Schlager: h - Commits
-- Manuel Puchner: h - Commits
-- Lukas Mayrhuber: h - Commits
+- Manuel Puchner: h -  Commits
+- Lukas Mayrhuber: 16.5h - 4 Commits
 - Michael Ruep: 18,5h - 11 Commits
   
 [Tool](https://timetracking.websters.at)
