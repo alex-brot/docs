@@ -10,7 +10,9 @@ End: 9.1.2025
 
 ## Sprint Goals
 - Optimize Inputs on Access Control System
-- Wireless on ESP32 
+- Wireless on ESP32
+- AWS (Stenz)
+- Deployment (Stenz)
 
 ## Time
 - Michael Stenz: 17h - 27 Commits
