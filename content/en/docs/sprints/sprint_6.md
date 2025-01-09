@@ -13,7 +13,7 @@ End: 9.1.2025
 - Wireless on ESP32 
 
 ## Time
-- Michael Stenz: h -  Commits
+- Michael Stenz: 17h - 27 Commits
 - Jakob Schlager: h - Commits
 - Manuel Puchner: h - Commits
 - Lukas Mayrhuber: h - Commits
@@ -28,3 +28,6 @@ TODO
 ## Challenges
 - Keyboard, NFC Reader and Display handled on one ESP32
 - Arduino OTA (Version Problem) - ended up not using it unfortunately
+- AWS
+- More Lightweight [Dockerfiles](https://github.com/alex-brot/alex-brot-medusa/blob/dev/Dockerfile)
+- V2 Deployment [](https://dev.medusa.alex-brot.stenz.dev/app)
