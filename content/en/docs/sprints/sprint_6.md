@@ -22,6 +22,7 @@ End: 9.1.2025
 - Manuel Puchner: h -  Commits
 - Lukas Mayrhuber: 16.5h - 4 Commits
 - Michael Ruep: 18,5h - 11 Commits
+- Jakob Hofer: 8 h
   
 [Tool](https://timetracking.websters.at)
 
