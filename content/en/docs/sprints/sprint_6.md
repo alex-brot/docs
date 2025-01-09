@@ -10,10 +10,11 @@ End: 9.1.2025
 
 ## Sprint Goals
 - Optimize Inputs on Access Control System
-- Wireless on ESP32
+- Wireless on ESP32 (
 - AWS (Stenz)
 - Deployment (Stenz)
-- Medusa Custom Modules & API
+- Medusa Custom Modules & API (Mayrhuber & Hofer)
+- Admin UI Page for Weekly offers (Mayrhuber)
 
 ## Time
 - Michael Stenz: 17h - 27 Commits
