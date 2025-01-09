@@ -151,7 +151,7 @@ End: 9.1.2025&lt;/p>
 &lt;/ul>
 &lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
-&lt;li>Michael Stenz: h - Commits&lt;/li>
+&lt;li>Michael Stenz: 17h - 27 Commits&lt;/li>
 &lt;li>Jakob Schlager: h - Commits&lt;/li>
 &lt;li>Manuel Puchner: h - Commits&lt;/li>
 &lt;li>Lukas Mayrhuber: h - Commits&lt;/li>
@@ -164,4 +164,7 @@ End: 9.1.2025&lt;/p>
 &lt;ul>
 &lt;li>Keyboard, NFC Reader and Display handled on one ESP32&lt;/li>
 &lt;li>Arduino OTA (Version Problem) - ended up not using it unfortunately&lt;/li>
+&lt;li>AWS&lt;/li>
+&lt;li>More Lightweight &lt;a href="https://github.com/alex-brot/alex-brot-medusa/blob/dev/Dockerfile">Dockerfiles&lt;/a>&lt;/li>
+&lt;li>V2 Deployment &lt;a href="https://dev.medusa.alex-brot.stenz.dev/app">&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
