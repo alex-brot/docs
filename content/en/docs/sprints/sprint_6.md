@@ -9,8 +9,8 @@ Start: 12.12.2024
 End: 9.1.2025
 
 ## Achieved
-- Optimize Inputs on Access Control System
-- Wireless on ESP32 (Ruep
+- Optimize Inputs on Access Control System (Ruep)
+- Wireless on ESP32 (Ruep)
 - AWS (Stenz)
 - Deployment (Stenz)
 - Medusa Custom Modules & API (Mayrhuber & Hofer)
