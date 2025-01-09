@@ -8,9 +8,9 @@ weight: 3
 Start: 12.12.2024
 End: 9.1.2025
 
-## Sprint Goals
+## Achieved
 - Optimize Inputs on Access Control System
-- Wireless on ESP32 (
+- Wireless on ESP32 (Ruep
 - AWS (Stenz)
 - Deployment (Stenz)
 - Medusa Custom Modules & API (Mayrhuber & Hofer)
