@@ -166,6 +166,22 @@ End: 9.1.2025&lt;/p>
 &lt;p>Start: 9.1.2025
 End: 23.1.2025&lt;/p>
 &lt;h2 id="achieved">Achieved&lt;a class="td-heading-self-link" href="#achieved" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Access Control:
+&lt;ul>
+&lt;li>Server Syncing
+&lt;ul>
+&lt;li>get codes&lt;/li>
+&lt;li>entry log&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Code Validating&lt;/li>
+&lt;li>Locally Storing Codes&lt;/li>
+&lt;li>Dynamic Wifi&lt;/li>
+&lt;li>Scheduled Requests and logic&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>Michael Stenz: h - Commits&lt;/li>
