@@ -9,6 +9,14 @@ Start: 9.1.2025
 End: 23.1.2025
 
 ## Achieved
+- Access Control:
+    - Server Syncing
+        - get codes
+        - entry log
+    - Code Validating
+    - Locally Storing Codes
+    - Dynamic Wifi
+    - Scheduled Requests and logic
 
 ## Time
 - Michael Stenz: h - Commits
