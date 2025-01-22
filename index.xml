@@ -262,8 +262,8 @@ End: 23.1.2025&lt;/p>
 &lt;p>TODO&lt;/p>
 &lt;h2 id="challenges">Challenges&lt;a class="td-heading-self-link" href="#challenges" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
-&lt;li>Access Control&lt;/li>
-&lt;li>&lt;/li>
+&lt;li>Access Control Validation&lt;/li>
+&lt;li>Code Syncing with Server&lt;/li>
 &lt;/ul></description></item><item><title>Use Case diagram</title><link>https://alex-brot.github.io/docs/docs/diagrams/use-case/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/diagrams/use-case/</guid><description>&lt;title>{{.Title}}&lt;/title>
 &lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
 left to right direction
