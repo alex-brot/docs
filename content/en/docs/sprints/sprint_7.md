@@ -25,5 +25,5 @@ TODO
 
 
 ## Challenges
-- Access Control
-- 
+- Access Control Validation
+- Code Syncing with Server
