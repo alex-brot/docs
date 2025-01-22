@@ -27,4 +27,4 @@ TODO
 ## Challenges
 - Access Control Validation
 - Code Syncing with Server
-- In Meomory Storage
+- In Memory Storage
