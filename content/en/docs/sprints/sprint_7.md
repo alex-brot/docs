@@ -24,7 +24,7 @@ End: 23.1.2025
 - Manuel Puchner: h -  Commits
 - Lukas Mayrhuber: 30 h - 32 Commits
 - Michael Ruep: 21,5h - 9 Commits
-- Jakob Hofer: h - Commits
+- Jakob Hofer: 17 h - 9 Commits
   
 [Tool](https://timetracking.websters.at)
 
@@ -36,6 +36,7 @@ TODO
 - Access Control Validation
 - Code Syncing with Server
 - In Memory Storage
-- Medusa requires both NODE_ENV production and NODE_ENV development to work because medusa 2.0 is still very instable. Still looking for workaround until medusa fixes this issue.
+- unexplainable Medusa errors & lack of docs n examples
+- Medusa requires both NODE_ENV production and NODE_ENV development to work because medusa 2.0 is still very unstable. Still looking for workaround until medusa fixes this issue.
     - https://github.com/medusajs/medusa/issues/11067
     - https://github.com/medusajs/medusa/issues/10147
