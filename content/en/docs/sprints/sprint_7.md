@@ -20,10 +20,10 @@ End: 23.1.2025
 
 ## Time
 - Michael Stenz: 16:19h - 18 Commits
-- Jakob Schlager: h - Commits
+- Jakob Schlager: 16h - 6 Commits
 - Manuel Puchner: h -  Commits
 - Lukas Mayrhuber: 30 h - 32 Commits
-- Michael Ruep: 21,5h - 9 Commits
+- Michael Ruep: 21:30h - 13 Commits
 - Jakob Hofer: 17 h - 9 Commits
   
 [Tool](https://timetracking.websters.at)
