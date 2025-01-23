@@ -36,3 +36,6 @@ TODO
 - Access Control Validation
 - Code Syncing with Server
 - In Memory Storage
+- Medusa requires both NODE_ENV production and NODE_ENV development to work because medusa 2.0 is still very instable. Still looking for workaround until medusa fixes this issue.
+    - https://github.com/medusajs/medusa/issues/11067
+    - https://github.com/medusajs/medusa/issues/10147
