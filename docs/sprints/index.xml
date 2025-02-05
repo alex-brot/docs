@@ -198,7 +198,14 @@ End: 23.1.2025&lt;/p>
 End: 06.2.2025&lt;/p>
 &lt;h2 id="achieved">Achieved&lt;a class="td-heading-self-link" href="#achieved" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
-&lt;li>Access Control:&lt;/li>
+&lt;li>Access Control:
+&lt;ul>
+&lt;li>add NFC codes&lt;/li>
+&lt;li>better logic&lt;/li>
+&lt;li>fixed bugs&lt;/li>
+&lt;li>Demo Built&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
@@ -212,4 +219,8 @@ End: 06.2.2025&lt;/p>
 &lt;p>&lt;a href="https://timetracking.websters.at">Tool&lt;/a>&lt;/p>
 &lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>TODO&lt;/p>
-&lt;h2 id="challenges">Challenges&lt;a class="td-heading-self-link" href="#challenges" aria-label="Heading self-link">&lt;/a>&lt;/h2></description></item></channel></rss>
+&lt;h2 id="challenges">Challenges&lt;a class="td-heading-self-link" href="#challenges" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Access Control Add NFC to Code&lt;/li>
+&lt;li>Demo House&lt;/li>
+&lt;/ul></description></item></channel></rss>
