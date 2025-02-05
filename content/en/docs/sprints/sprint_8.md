@@ -26,3 +26,5 @@ TODO
 
 
 ## Challenges
+- Access Control Add NFC to Code
+- Demo House
