@@ -10,6 +10,10 @@ End: 06.2.2025
 
 ## Achieved
 - Access Control:
+  - add NFC codes
+  - better logic
+  - fixed bugs
+  - Demo Built
 
 ## Time
 - Michael Stenz: h -  Commits
