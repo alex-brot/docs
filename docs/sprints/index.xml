@@ -193,4 +193,23 @@ End: 23.1.2025&lt;/p>
 &lt;/ul>
 &lt;p>&lt;a href="https://timetracking.websters.at">Tool&lt;/a>&lt;/p>
 &lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>TODO&lt;/p></description></item></channel></rss>
+&lt;p>TODO&lt;/p></description></item><item><title>Sprint 8</title><link>https://alex-brot.github.io/docs/docs/sprints/sprint_8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/sprints/sprint_8/</guid><description>&lt;title>{{.Title}}&lt;/title>
+&lt;p>Start: 23.1.2025
+End: 06.2.2025&lt;/p>
+&lt;h2 id="achieved">Achieved&lt;a class="td-heading-self-link" href="#achieved" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Access Control:&lt;/li>
+&lt;/ul>
+&lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Michael Stenz: h - Commits&lt;/li>
+&lt;li>Jakob Schlager: h - Commits&lt;/li>
+&lt;li>Manuel Puchner: h - Commits&lt;/li>
+&lt;li>Lukas Mayrhuber: h - Commits&lt;/li>
+&lt;li>Michael Ruep: h - Commits&lt;/li>
+&lt;li>Jakob Hofer: h - Commits&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://timetracking.websters.at">Tool&lt;/a>&lt;/p>
+&lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>TODO&lt;/p>
+&lt;h2 id="challenges">Challenges&lt;a class="td-heading-self-link" href="#challenges" aria-label="Heading self-link">&lt;/a>&lt;/h2></description></item></channel></rss>
