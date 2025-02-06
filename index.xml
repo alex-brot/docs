@@ -293,22 +293,15 @@ End: 06.2.2025&lt;/p>
 &lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>Michael Stenz: 10 h - 28 Commits&lt;/li>
-&lt;li>Jakob Schlager: h - Commits&lt;/li>
-&lt;li>Manuel Puchner: h - Commits&lt;/li>
-&lt;li>Lukas Mayrhuber: h - Commits&lt;/li>
+&lt;li>Jakob Schlager: 16 h - 7 Commits&lt;/li>
+&lt;li>Manuel Puchner: 16 h - 5 Commits&lt;/li>
+&lt;li>Lukas Mayrhuber: 17 h - 8 Commits&lt;/li>
 &lt;li>Michael Ruep: 21h - 19 Commits&lt;/li>
-&lt;li>Jakob Hofer: 13h - Commits&lt;/li>
+&lt;li>Jakob Hofer: 16h - 2 Commits&lt;/li>
 &lt;/ul>
 &lt;p>&lt;a href="https://timetracking.websters.at">Tool&lt;/a>&lt;/p>
 &lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>TODO&lt;/p>
-&lt;h2 id="challenges">Challenges&lt;a class="td-heading-self-link" href="#challenges" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>Access Control Add NFC to Code&lt;/li>
-&lt;li>Demo House&lt;/li>
-&lt;li>Deployment with issues that were solved this week!&lt;/li>
-&lt;li>🎉 Medusa 2.0.4 🎉&lt;/li>
-&lt;/ul></description></item><item><title>Use Case diagram</title><link>https://alex-brot.github.io/docs/docs/diagrams/use-case/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/diagrams/use-case/</guid><description>&lt;title>{{.Title}}&lt;/title>
+&lt;p>TODO&lt;/p></description></item><item><title>Use Case diagram</title><link>https://alex-brot.github.io/docs/docs/diagrams/use-case/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/diagrams/use-case/</guid><description>&lt;title>{{.Title}}&lt;/title>
 &lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
 left to right direction
 actor &amp;#34;producer/baker&amp;#34; as producer
