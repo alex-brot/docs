@@ -16,7 +16,7 @@ End: 06.2.2025
   - Demo Built
 
 ## Time
-- Michael Stenz: h -  Commits
+- Michael Stenz: 10 h - 28 Commits
 - Jakob Schlager: h -  Commits
 - Manuel Puchner: h -  Commits
 - Lukas Mayrhuber:  h -  Commits
