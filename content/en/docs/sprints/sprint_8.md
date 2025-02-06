@@ -14,6 +14,7 @@ End: 06.2.2025
   - better logic
   - fixed bugs
   - Demo Built
+- Fully functional dev enviroment
 
 ## Time
 - Michael Stenz: 10 h - 28 Commits
@@ -32,3 +33,5 @@ TODO
 ## Challenges
 - Access Control Add NFC to Code
 - Demo House
+- Deployment with issues that were solved this week!
+- 🎉 Medusa 2.0.4 🎉
