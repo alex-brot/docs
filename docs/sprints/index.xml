@@ -219,4 +219,27 @@ End: 06.2.2025&lt;/p>
 &lt;/ul>
 &lt;p>&lt;a href="https://timetracking.websters.at">Tool&lt;/a>&lt;/p>
 &lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>TODO&lt;/p></description></item><item><title>Sprint 9</title><link>https://alex-brot.github.io/docs/docs/sprints/sprint_9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alex-brot.github.io/docs/docs/sprints/sprint_9/</guid><description>&lt;title>{{.Title}}&lt;/title>
+&lt;p>Start: 06.2.2025
+End: 13.3.2025&lt;/p>
+&lt;h2 id="achieved">Achieved&lt;a class="td-heading-self-link" href="#achieved" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Allergene&lt;/li>
+&lt;li>New Checkout&lt;/li>
+&lt;li>New Customer verification&lt;/li>
+&lt;li>Entry management&lt;/li>
+&lt;li>Entry Log&lt;/li>
+&lt;li>Weekly orders&lt;/li>
+&lt;li>Access Control User experience&lt;/li>
+&lt;/ul>
+&lt;h2 id="time">Time&lt;a class="td-heading-self-link" href="#time" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Michael Stenz: 38h - 14 Commits&lt;/li>
+&lt;li>Jakob Schlager: 30h - 7 Commits&lt;/li>
+&lt;li>Manuel Puchner: 38h - 17 Commits&lt;/li>
+&lt;li>Lukas Mayrhuber: 45h - 24 Commits&lt;/li>
+&lt;li>Michael Ruep: 33h - 14 Commits&lt;/li>
+&lt;li>Jakob Hofer: 32h - 7 Commits&lt;/li>
+&lt;/ul>
+&lt;h2 id="sprint-review">Sprint Review&lt;a class="td-heading-self-link" href="#sprint-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>TODO&lt;/p></description></item></channel></rss>
