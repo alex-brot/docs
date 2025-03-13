@@ -16,6 +16,7 @@ End: 13.3.2025
 - Entry Log
 - Weekly orders
 - Access Control User experience
+- ESP-CAM to ESP32 WROOOM
 
 ## Time
 - Michael Stenz: 38h - 14 Commits
